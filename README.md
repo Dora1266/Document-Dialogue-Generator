@@ -163,3 +163,7 @@ python main.py integrated path/to/document.pdf --api-url https://api.example.com
 - `/api/download-results` - 以JSON格式下载结果
 - `/api/download-xlsx` - 以XLSX格式下载结果
 
+![集成](Pictures/1.jpg)
+![语义解析](Pictures/2.jpg)
+![对话生成](Pictures/3.jpg)
+![历史记录](Pictures/4.jpg)
